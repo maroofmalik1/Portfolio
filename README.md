@@ -1,3 +1,3 @@
 # portfolio
-This portfolio website showcases Rumaisa Aman, a dedicated and enthusiastic web designer with expertise in front-end and back-end development, graphic design, and web design. The homepage features a welcoming section with social media links and a brief introduction. The biography section highlights Rumaisa's journey and passion for web design, followed by an education section detailing her academic background and ongoing internship experience. The services section outlines the various services she offers, such as graphic design, front-end development, and back-end development. The projects section displays some of her notable works with links to live demos. Lastly, the contact section allows visitors to send messages directly. This portfolio effectively demonstrates Rumaisa's skills and projects, providing a comprehensive overview of her professional capabilities.
+
 
